@@ -1,0 +1,65 @@
+.Profile {
+  width: 200px;
+  height: 300px;
+}
+.Items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.heading1 {
+  color: #189dd1;
+}
+.para1 {
+  color: #1862cf;
+}
+.projects {
+  padding-left: 200px;
+}
+.project-heading {
+  color: #e90a1c;
+  text-decoration: underline;
+}
+.project {
+  padding-left: 50px;
+}
+.project-title {
+  color: rgb(50, 167, 167);
+  font-style: italic;
+}
+.project-desc {
+  padding-left: 50px;
+}
+.tech-known {
+  display: flex;
+  justify-content: space-between;
+  width: 5%;
+  padding-left: 50px;
+  color: rgb(41, 180, 180);
+}
+.tech-img1 {
+  height: 50px;
+  margin-left: 70px;
+}
+.tech-img2 {
+  height: 50px;
+  margin-left: 100px;
+}
+.tech-img3 {
+  height: 50px;
+  margin-left: 115px;
+}
+.tech-img4 {
+  height: 72px;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+body {
+  background-color: #eaeaea;
+}
